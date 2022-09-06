@@ -11,5 +11,5 @@ Major Cities:
 <img width="949" alt="2022-09-06 (6)" src="https://user-images.githubusercontent.com/108524555/188567489-4c9c520d-c54d-45da-be68-5edc9fa44470.png">
 
 PG:
-<img width="960" alt="2022-09-06 (9)" src="https://user-images.githubusercontent.com/108524555/188568337-c005365c-8152-4e3e-854f-20e9542533d4.png">
+<img width="946" alt="2022-09-06 (9)" src="https://user-images.githubusercontent.com/108524555/188568635-c2b3ae8f-5bec-42fc-9559-ad69be7f5500.png">
 
